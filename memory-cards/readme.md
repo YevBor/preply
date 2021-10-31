@@ -10,3 +10,6 @@ Flash card app for learning. Display, add and remove memory cards with questions
 - View prev and next cards
 - Add new cards to local storage
 - Clear all cards from local storage
+
+
+Look at the project https://yevbor.github.io/preply/memory-cards/
